@@ -1,3 +1,5 @@
+Comparing Different Parallel Implementations for Identifying Prime Numbers
+
 1) Input to the program is a file named "inp-params.txt,".
    Input consists of the parameters n, m where 10**n = N. Here N is the number below which you to find the prime number of primes and m is the number of threads that needs to be created.
 
